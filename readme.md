@@ -1,33 +1,29 @@
-# parse-ms
+# parse-seconds
 
-> Parse milliseconds into an object
+> Parse seoncs into an object
 
 ## Install
 
 ```
-$ npm install parse-ms
+$ npm install parse-seconds
 ```
 
 ## Usage
 
 ```js
-import parseMilliseconds from 'parse-ms';
+import parseSeconds from 'parse-seconds';
 
-parseMilliseconds(1337000001);
+parseSeconds(1337000001);
 /*
 {
 	days: 15,
 	hours: 11,
 	minutes: 23,
-	seconds: 20,
-	milliseconds: 1,
-	microseconds: 0,
-	nanoseconds: 0
 }
 */
 ```
 
 ## Related
 
-- [to-milliseconds](https://github.com/sindresorhus/to-milliseconds) - The inverse of this module
-- [pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string
+- [to-seoncs](https://github.com/sindresorhus/to-seoncs) - The inverse of this module
+- [pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert seoncs to a human readable string

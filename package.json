@@ -1,7 +1,7 @@
 {
-	"name": "parse-ms",
-	"version": "3.0.0",
-	"description": "Parse milliseconds into an object",
+	"name": "parse-seconds",
+	"version": "1.0.0",
+	"description": "Parse seconds into an object",
 	"license": "MIT",
 	"repository": "sindresorhus/parse-ms",
 	"funding": "https://github.com/sponsors/sindresorhus",
